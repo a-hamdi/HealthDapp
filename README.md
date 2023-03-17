@@ -34,14 +34,25 @@ react-scripts v3.2.0
 
 web3 v1.2.2
 # Installation
+
 Install Metamask as a browser extension
+
 Install Ganache for deployment of contracts
+
 Add truffle-config.js file in Ganache
+
 Create a new network in Metamask with the same port number as in truffle-config.js
+
 Configure Ganache with the same port number
+
 Go to the project directory and run truffle migrate on the command prompt
+
 Go to the 'Client' directory using the prompt and use npm install or yarn install (if your system has yarn)
+
 Run npm start to start the React server
+
 The project will be open in your browser
+
 Import Ganache account(s) in Metamask and use it for user login/register purposes
+
 Execution will start from App.js file in the client directory
