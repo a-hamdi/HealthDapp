@@ -9,17 +9,29 @@ Doctors have the facility to view the patient records to which they have been gr
 
 # Prerequisites
 Truffle v5.1.20
+
 solc v0.5.16
+
 Node v12.16.1 (install following with npm)
+
 antd v3.9.0
+
 axios v0.19.2
+
 bootstrap v4.4.1
+
 bs58 v4.0.1
+
 ipfs-api v26.1.2
+
 react v16.11.0
+
 react-bootstrap v1.0.0
+
 react-dom v16.11.0
+
 react-scripts v3.2.0
+
 web3 v1.2.2
 # Installation
 Install Metamask as a browser extension
